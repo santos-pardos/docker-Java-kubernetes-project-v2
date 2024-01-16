@@ -1,4 +1,4 @@
-## Java App - EKS
+## Java App - Docker - K8s in AWS EKS
 ```
 kubectl cluster-info
 sudo apt install default-jdk -y
